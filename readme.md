@@ -1,4 +1,11 @@
-## Repository zum Hanser-Buch *Machine Learning für Zeitreihen* (2021)
+# Repository zum Hanser-Buch *Machine Learning für Zeitreihen* (2021)
+
+### Inhalt
+1. [Arbeiten mit dem Repository](#Arbeiten mit dem Repository)
+2. [Virtuelle Umgebung](#Virtuelle Umgebung)
+3. [Kontakt](#Kontakt bei Fragen und Problemen)
+4. [Korrekturen](#Korrekturen)
+***
 ### Arbeiten mit dem Repository 
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
