@@ -62,7 +62,7 @@ In Bild 5.18 sind die _x_-Werte den Gewichten zum Teil falsch zugeordnet. Darges
 
 Hier ist die falsche Shape angegeben. Es müsste heißen:
 
-    (56104, **14**), (14025, **14**), (56104, 1), (14025, 1)  
+    (56104, 14), (14025, 14), (56104, 1), (14025, 1)  
 ***
 **_Kapitel 5, Abschnitt 5.6.2, S. 226 Code unten_**
 
