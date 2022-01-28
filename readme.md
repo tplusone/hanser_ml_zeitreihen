@@ -1,9 +1,9 @@
 # Repository zum Hanser-Buch *Machine Learning für Zeitreihen* (2021)
 
 ### Inhalt
-1. [Arbeiten mit dem Repository](#Arbeiten mit dem Repository)
-2. [Virtuelle Umgebung](#Virtuelle Umgebung)
-3. [Kontakt](#Kontakt bei Fragen und Problemen)
+1. [Arbeiten mit dem Repository](#Arbeiten)
+2. [Virtuelle Umgebung](#Virtuell)
+3. [Kontakt](#Kontakt)
 4. [Korrekturen](#Korrekturen)
 ***
 ### Arbeiten mit dem Repository 
