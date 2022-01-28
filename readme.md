@@ -1,4 +1,5 @@
 # Repository zum Hanser-Buch *Machine Learning für Zeitreihen* (2021)
+*Jochen Hirschle*
 
 ## Inhalt
 1. [Arbeiten mit dem Repository](aArbeiten-mit-dem-repository)
