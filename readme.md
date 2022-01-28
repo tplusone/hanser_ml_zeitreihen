@@ -1,12 +1,12 @@
 # Repository zum Hanser-Buch *Machine Learning für Zeitreihen* (2021)
 
-### Inhalt
+## Inhalt
 1. [Arbeiten mit dem Repository](aArbeiten-mit-dem-repository)
 2. [Virtuelle Umgebung](#virtuelle-umgebung)
 3. [Kontakt](#Kontakt-bei-Fragen-und-Problemen)
 4. [Korrekturen (Fehler im Buch)](#Korrekturen)
 ***
-### 1. Arbeiten mit dem Repository 
+## 1. Arbeiten mit dem Repository 
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
 In den Kapiteln finden Sie jeweils die Codebeispiel als *Jupyter Notebooks* (\*.ipynb-Dateien). 
 Sie können das komplette Repository entweder auf ihren Rechner herunterladen oder auf die Jupyter Notebooks direkt im Internet zugreifen 
@@ -17,11 +17,11 @@ aus dem Terminal-Fenster mit folgendem Befehl lokal speichern:<br>
 ```
 git clone https://github.com/tplusone/hanser_ml_zeitreihen.git
 ```
-### 2. Virtuelle Umgebung
+## 2. Virtuelle Umgebung
 Die Datei **requirements.txt** enthält alle Python-Bibliotheken, die zur Ausführung der Codebeispiele notwendig sind. 
 Wenn Sie eine virtuelle Umgebung in Anaconda anlegen möchten, die diese Bibliotheken enthält, navigieren Sie über das Anaconda-Terminalfenster
 (Anaconda Prompt) einfach in den Basisordner des Repositories (*hanser_ml_zeitreihen*) und geben 
-dann folgenden Befehl unter Einfügung eines Namens für die env *<env_name>* ein:<br>
+dann folgenden Befehl unter Einfügung eines Namens für die *<env_name>* ein:<br>
 ```
 conda create --name <env_name> --file requirements.txt
 ```
@@ -38,13 +38,13 @@ Alternativ können Sie die notwendigen Bibliotheken natürlich auch manuell inst
 - tensorflow, Version=2.1.0
 - seaborn, Version=0.10.1
 
-### 3. Kontakt bei Fragen und Problemen
+## 3. Kontakt bei Fragen und Problemen
 Wenn Sie Fragen zum Code oder zum Buch haben, können Sie entweder hier auf *github* einen *Issue* eröffnen oder sich direkt per Mail
 an <tplusone[at]posteo.de> wenden.
 
 ***
 
-# 4. Korrekturen
+## 4. Korrekturen
 
 Liebe LeserInnen,  
 wie moderne Software lebt auch ein Fachbuch von Hinweisen zu Problemen und Bugs. 
@@ -54,7 +54,7 @@ Im Folgenden finden Sie eine Liste mit fehlerhaften oder problematischen Textste
   
 Herzlichen Dank für Ihr Verständnis!  
 ***
-## Korrekturen nach Kapiteln/Abschnitten
+#### Korrekturen nach Kapiteln/Abschnitten
 **_Kapitel 3, Abschnitt 3.5.2, S. 93_**
 
 In den abgedruckten Formeln sind die _x_-Werte und die Gewichtungen (betas) vertauscht. Die Zahlenwerte (0/1), die die zu modellierenden Situationen bezeichnen, werden als _x_-Werte eingesetzt und nicht als Gewichtungen (betas). Es müsste also heißen:
