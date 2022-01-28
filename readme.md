@@ -1,7 +1,7 @@
 # Repository zum Buch *Machine Learning für Zeitreihen*
 *Vollständiger Titel:*
-Machine Learning für Zeitreihen. Einstieg in Regressions-, ARIMA- und Deep Learning-Verfahren 
-Jochen Hirschle
+Machine Learning für Zeitreihen. Einstieg in Regressions-, ARIMA- und Deep Learning-Verfahren  
+Jochen Hirschle  
 Hanser-Verlag, 2021
 
 
