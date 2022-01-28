@@ -14,9 +14,8 @@ und den Code und die Resultate einsehen.<br><br>
 Wenn Sie das Repository herunterladen möchten, müssen Sie *git* auf ihrem Rechner installiert haben. Die Software ist kostenlos verfügbar
 zum Beispiel unter *https://git-scm.com/downloads*. Wenn Sie die Software installiert haben, können Sie das komplette Repository
 aus dem Terminal-Fenster mit folgendem Befehl lokal speichern:<br>
-
     git clone https://github.com/tplusone/hanser_ml_zeitreihen.git
-<br>
+
 ### 2. Virtuelle Umgebung
 Die Datei **requirements.txt** enthält alle Python-Bibliotheken, die zur Ausführung der Codebeispiele notwendig sind. 
 Wenn Sie eine virtuelle Umgebung in Anaconda anlegen möchten, die diese Bibliotheken enthält, navigieren Sie über das Anaconda-Terminalfenster
@@ -25,8 +24,6 @@ dann folgenden Befehl unter Einfügung eines Namens für die env *<env_name>* ei
     conda create --name <env_name> --file requirements.txt
 Nach Fertigstellung der Environment lässt sich die Umgebung mit *conda activate <env_name>* einfach aktivieren.<br>
 Wenn Sie stattdessen mit *pip* arbeiten, können Sie die Bibliotheken auch mit folgendem Befehl in ihre Umgebung laden:<br>
-
-
     pip install -r requirements.txt
 Alternativ können Sie die notwendigen Bibliotheken natürlich auch manuell installieren. Sie benötigen im Wesentlichen folgende Module:<br>
 - python, Version=3.7.7
