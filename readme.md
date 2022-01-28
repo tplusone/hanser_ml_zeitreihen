@@ -4,7 +4,7 @@
 1. [Arbeiten mit dem Repository](aArbeiten-mit-dem-repository)
 2. [Virtuelle Umgebung](#virtuelle-umgebung)
 3. [Kontakt](#Kontakt-bei-Fragen-und-Problemen)
-4. [Korrekturen](#Korrekturen)
+4. [Korrekturen (Fehler im Buch)](#Korrekturen)
 ***
 ### 1. Arbeiten mit dem Repository 
 Die Ordner des Repositorys sind entlang der Kapitel des Buches organisiert. 
