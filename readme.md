@@ -37,7 +37,7 @@ an <tplusone[at]posteo.de> wenden.
 Liebe LeserInnen,  
 wie moderne Software lebt auch ein Fachbuch von Hinweisen zu Problemen und Bugs. 
 Ich danke deshalb ganz herzlich den LeserInnen für ihre Kommentare!  
-Wenn Sie weitere inkorrekte oder unklare Textpassagen im Buch finden, die unten noch nicht aufgeführt sind, eröffnen Sie gerne einen Issue hier auf *GitHub* oder schreiben Sie eine E-Mail an <tplusone@posteo.de>!  
+Wenn Sie weitere inkorrekte oder unklare Textpassagen im Buch finden, die unten noch nicht aufgeführt sind, eröffnen Sie gerne einen Issue hier auf *GitHub* oder schreiben Sie eine E-Mail an <tplusone[at]posteo.de>!  
 Im Folgenden finden Sie eine Liste mit fehlerhaften oder problematischen Textstellen inkl. Korrektur.  
   
 Herzlichen Dank für Ihr Verständnis!  
